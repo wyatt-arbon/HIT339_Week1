@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\wyatt\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "D:\\uni\\Hit339\\week1HelloWorldMVC\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "c:\\users\\wyatt\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "D:\\uni\\Hit339\\week1HelloWorldMVC\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\wyatt\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\wyatt\\source\\repos\\MvcMovie\\MvcMovie\\obj\\",
+      "outputPath": "D:\\uni\\Hit339\\week1HelloWorldMVC\\MvcMovie\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
