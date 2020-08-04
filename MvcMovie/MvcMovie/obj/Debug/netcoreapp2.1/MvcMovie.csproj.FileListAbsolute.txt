@@ -65,3 +65,8 @@ D:\uni\Hit339\week1HelloWorldMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\MvcMo
 D:\uni\Hit339\week1HelloWorldMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\MvcMovie.pdb
 D:\uni\Hit339\week1HelloWorldMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\MvcMovie.csproj.CopyComplete
 D:\uni\Hit339\week1HelloWorldMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\Razor\Views\HelloWorld\Welcome.g.cshtml.cs
+D:\uni\Hit339\week1HelloWorldMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\Razor\Views\Movies\Create.g.cshtml.cs
+D:\uni\Hit339\week1HelloWorldMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\Razor\Views\Movies\Delete.g.cshtml.cs
+D:\uni\Hit339\week1HelloWorldMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\Razor\Views\Movies\Details.g.cshtml.cs
+D:\uni\Hit339\week1HelloWorldMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\Razor\Views\Movies\Edit.g.cshtml.cs
+D:\uni\Hit339\week1HelloWorldMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\Razor\Views\Movies\Index.g.cshtml.cs
